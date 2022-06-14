@@ -6,6 +6,7 @@ export default function Header() {
     <div>
       <div className="navbar">
         <img src={trollface} alt="aga" />
+        <h2>Meme Generator</h2>
       </div>
     </div>
   );
