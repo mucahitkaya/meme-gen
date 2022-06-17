@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 export default function Meme() {
   const [meme, setMeme] = useState({
-    topText: "",
+    topText: "asdasd",
     bottomText: "",
     randomImage: "http://i.imgflip.com/1bij.jpg",
   });
